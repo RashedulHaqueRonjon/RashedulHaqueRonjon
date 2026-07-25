@@ -102,17 +102,23 @@ Pursuing expertise in **Applied AI for Business** with focus on:
 
 ## 📂 Featured Projects
 
+### ⚽ FOOTBALL_MATCH_TELECASTER-ANALYZER (https://github.com/RashedulHaqueRonjon/FOOTBALL_MATCH_TELECASTER-ANALYZER)
+**AI-Powered Sports Telecast Analyzer**
+- Automated match telecast parsing with event tagging and timeline generation  
+- Statistical breakdown of player performance and team dynamics  
+- **Tech Stack:** Python, OpenCV, Pandas, Matplotlib, SQL Server  
+
+### 🗄️ A_Journal_on_Database-Aware_Smart_Scaffolder (https://github.com/RashedulHaqueRonjon/A_Journal_on_Database-Aware_Smart_Scaffolder)
+**Intelligent Database Scaffolding Framework**
+- Smart scaffolding for EF Core with schema-aware optimizations  
+- Automated journal entries for schema evolution and migration tracking  
+- **Tech Stack:** C#, EF Core, SQL Server, LaTeX (for documentation)
+
 ### 🏥 [Medical Equipment KYC Survey System](https://github.com/RashedulHaqueRonjon/KnowYourCustomer_KYC)
 **9-Form Customer Intelligence Platform**
 - Comprehensive survey system with 16-table SQL Server database and 31 stored procedures
 - Modern responsive HTML5 forms with dynamic field generation and real-time validation
 - **Tech Stack:** SQL Server, HTML5, CSS3, JavaScript, T-SQL
-
-### 👥 [ASP.NET Core Customer Management System](https://github.com/RashedulHaqueRonjon/CustomerManagement)
-**Full-Stack CRUD Application**
-- Complete customer management with search, sort, and pagination
-- Responsive Bootstrap 5 UI with form validation
-- **Tech Stack:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, jQuery, Bootstrap 5
 
 ## 📊 GitHub Stats
 
@@ -140,7 +146,7 @@ Aspiring to pursue a **Master's in Artificial Intelligence for Business** or **A
 
 ## 💼 Professional Experience
 
-- **Assistant Manager, Commercial and IT** @ Genetic Fashions Ltd. (2024-Present)
+- **Assistant Manager, Commercial and IT** @ Genetic Fashions Ltd. (2024-2026)
 - **Assistant Manager** @ Research Evaluation and Development Studies (2024)
 - **Sub-Editor** @ The Daily Vorer Akash (2024)
 - **Manager, Business Development** @ Messrs. Haque Chemical (2019-2023)
