@@ -9,7 +9,7 @@ I'm a **multidisciplinary, AI-savvy IT and Business Operations Professional** wi
 - ⚙️ ERP Customization & Process Automation
 - 💼 Commercial Operations in Export-Oriented Industries
 
-Currently, I am looking for new opportunities. Recently, I served as **Assistant Manager, Commercial and IT** at Genetic Fashions Ltd., where I bridged technical and operational domains to drive digital transformation.
+Currently, I am looking for new opportunities. Recently, I served as **Assistant Manager, Commercial and IT** at Genetic Fashions Ltd., where I bridged technical and operational domains to drive digital transformation and process optimization across the organization.
 
 ## 🎯 Career Focus
 
